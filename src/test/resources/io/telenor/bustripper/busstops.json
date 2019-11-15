@@ -1,0 +1,1014 @@
+[
+  {
+    "Lines": [
+      {
+        "ID": 9101,
+        "Name": "L1",
+        "Transportation": 6,
+        "LineColour": "32374B"
+      },
+      {
+        "ID": 9102,
+        "Name": "L2",
+        "Transportation": 6,
+        "LineColour": "32374B"
+      },
+      {
+        "ID": 9110,
+        "Name": "R10",
+        "Transportation": 6,
+        "LineColour": "32374B"
+      },
+      {
+        "ID": 9111,
+        "Name": "R11",
+        "Transportation": 6,
+        "LineColour": "32374B"
+      },
+      {
+        "ID": 9112,
+        "Name": "L12",
+        "Transportation": 6,
+        "LineColour": "32374B"
+      },
+      {
+        "ID": 9113,
+        "Name": "L13",
+        "Transportation": 6,
+        "LineColour": "32374B"
+      },
+      {
+        "ID": 9114,
+        "Name": "L14",
+        "Transportation": 6,
+        "LineColour": "32374B"
+      },
+      {
+        "ID": 9121,
+        "Name": "L21",
+        "Transportation": 6,
+        "LineColour": "32374B"
+      },
+      {
+        "ID": 9152,
+        "Name": "L2X",
+        "Transportation": 6,
+        "LineColour": "32374B"
+      },
+      {
+        "ID": 9161,
+        "Name": "R11X",
+        "Transportation": 6,
+        "LineColour": "32374B"
+      },
+      {
+        "ID": 9201,
+        "Name": "FT",
+        "Transportation": 4,
+        "LineColour": "32374B"
+      },
+      {
+        "ID": 9250,
+        "Name": "R50",
+        "Transportation": 6,
+        "LineColour": "32374B"
+      }
+    ],
+    "X": 591555,
+    "Y": 6642905,
+    "Zone": "1",
+    "ShortName": "LY",
+    "IsHub": false,
+    "ID": 3012550,
+    "Name": "Lysaker [tog]",
+    "District": "Oslo",
+    "PlaceType": "Stop"
+  },
+  {
+    "Lines": [
+      {
+        "ID": 23,
+        "Name": "23",
+        "Transportation": 2,
+        "LineColour": "E60000"
+      },
+      {
+        "ID": 733,
+        "Name": "733",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 774,
+        "Name": "774",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      }
+    ],
+    "X": 591394,
+    "Y": 6642852,
+    "Zone": "1",
+    "ShortName": "LYSL",
+    "IsHub": false,
+    "ID": 3012549,
+    "Name": "Lysaker (Lysakerlokket)",
+    "District": "Oslo",
+    "PlaceType": "Stop"
+  },
+  {
+    "Lines": [
+      {
+        "ID": 23,
+        "Name": "23",
+        "Transportation": 2,
+        "LineColour": "E60000"
+      },
+      {
+        "ID": 32,
+        "Name": "32",
+        "Transportation": 2,
+        "LineColour": "E60000"
+      },
+      {
+        "ID": 3932,
+        "Name": "N32",
+        "Transportation": 2,
+        "LineColour": "E60000"
+      }
+    ],
+    "X": 591717,
+    "Y": 6642986,
+    "Zone": "1",
+    "ShortName": "LYB",
+    "IsHub": false,
+    "ID": 3012553,
+    "Name": "Lysaker bru",
+    "District": "Oslo",
+    "PlaceType": "Stop"
+  },
+  {
+    "Lines": [
+      {
+        "ID": 24,
+        "Name": "24",
+        "Transportation": 2,
+        "LineColour": "E60000"
+      },
+      {
+        "ID": 31,
+        "Name": "31",
+        "Transportation": 2,
+        "LineColour": "E60000"
+      },
+      {
+        "ID": 36,
+        "Name": "36E",
+        "Transportation": 2,
+        "LineColour": "E60000"
+      },
+      {
+        "ID": 121,
+        "Name": "121",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 122,
+        "Name": "122",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 129,
+        "Name": "129",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 131,
+        "Name": "131",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 132,
+        "Name": "132",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 139,
+        "Name": "139",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 143,
+        "Name": "143",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 144,
+        "Name": "144",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 149,
+        "Name": "149",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 151,
+        "Name": "151",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 152,
+        "Name": "152",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 156,
+        "Name": "156",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 159,
+        "Name": "159",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 242,
+        "Name": "242",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 251,
+        "Name": "251",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 252,
+        "Name": "252",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 253,
+        "Name": "253",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 259,
+        "Name": "259",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 2031,
+        "Name": "31E",
+        "Transportation": 2,
+        "LineColour": "E60000"
+      },
+      {
+        "ID": 3853,
+        "Name": "TP",
+        "Transportation": 1,
+        "LineColour": "424A52"
+      },
+      {
+        "ID": 6169,
+        "Name": "169",
+        "Transportation": 2,
+        "LineColour": "424A52"
+      },
+      {
+        "ID": 6200,
+        "Name": "200",
+        "Transportation": 2,
+        "LineColour": "424A52"
+      }
+    ],
+    "X": 591538,
+    "Y": 6642857,
+    "Zone": "1",
+    "ShortName": "LYST",
+    "IsHub": false,
+    "ID": 3012551,
+    "Name": "Lysaker stasjon (nordside Dr.vn)",
+    "District": "Oslo",
+    "PlaceType": "Stop"
+  },
+  {
+    "Lines": [
+      {
+        "ID": 603,
+        "Name": "B11",
+        "Transportation": 5,
+        "LineColour": "682C88"
+      }
+    ],
+    "X": 591801,
+    "Y": 6642676,
+    "Zone": "1",
+    "ShortName": "LYSBR",
+    "IsHub": false,
+    "ID": 2190001,
+    "Name": "Lysaker [båt]",
+    "District": "Bærum",
+    "PlaceType": "Stop"
+  },
+  {
+    "Lines": [
+      {
+        "ID": 23,
+        "Name": "23",
+        "Transportation": 2,
+        "LineColour": "E60000"
+      },
+      {
+        "ID": 32,
+        "Name": "32",
+        "Transportation": 2,
+        "LineColour": "E60000"
+      },
+      {
+        "ID": 3932,
+        "Name": "N32",
+        "Transportation": 2,
+        "LineColour": "E60000"
+      }
+    ],
+    "X": 591648,
+    "Y": 6642694,
+    "Zone": "1",
+    "ShortName": "LYBR",
+    "IsHub": false,
+    "ID": 3012554,
+    "Name": "Lysaker brygge [buss]",
+    "District": "Oslo",
+    "PlaceType": "Stop"
+  },
+  {
+    "Lines": [
+      {
+        "ID": 23,
+        "Name": "23",
+        "Transportation": 2,
+        "LineColour": "E60000"
+      }
+    ],
+    "X": 591673,
+    "Y": 6642827,
+    "Zone": "1",
+    "ShortName": "STRV",
+    "IsHub": false,
+    "ID": 3012547,
+    "Name": "Strandveien (Lysaker)",
+    "District": "Oslo",
+    "PlaceType": "Stop"
+  },
+  {
+    "Lines": [
+      {
+        "ID": 24,
+        "Name": "24",
+        "Transportation": 2,
+        "LineColour": "E60000"
+      },
+      {
+        "ID": 31,
+        "Name": "31",
+        "Transportation": 2,
+        "LineColour": "E60000"
+      },
+      {
+        "ID": 32,
+        "Name": "32",
+        "Transportation": 2,
+        "LineColour": "E60000"
+      },
+      {
+        "ID": 36,
+        "Name": "36E",
+        "Transportation": 2,
+        "LineColour": "E60000"
+      },
+      {
+        "ID": 121,
+        "Name": "121",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 122,
+        "Name": "122",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 129,
+        "Name": "129",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 131,
+        "Name": "131",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 132,
+        "Name": "132",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 139,
+        "Name": "139",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 143,
+        "Name": "143",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 144,
+        "Name": "144",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 149,
+        "Name": "149",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 151,
+        "Name": "151",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 152,
+        "Name": "152",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 156,
+        "Name": "156",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 159,
+        "Name": "159",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 242,
+        "Name": "242",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 251,
+        "Name": "251",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 252,
+        "Name": "252",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 253,
+        "Name": "253",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 259,
+        "Name": "259",
+        "Transportation": 2,
+        "LineColour": "87B914"
+      },
+      {
+        "ID": 2031,
+        "Name": "31E",
+        "Transportation": 2,
+        "LineColour": "E60000"
+      },
+      {
+        "ID": 3853,
+        "Name": "TP",
+        "Transportation": 1,
+        "LineColour": "424A52"
+      },
+      {
+        "ID": 3932,
+        "Name": "N32",
+        "Transportation": 2,
+        "LineColour": "E60000"
+      },
+      {
+        "ID": 6169,
+        "Name": "169",
+        "Transportation": 2,
+        "LineColour": "424A52"
+      },
+      {
+        "ID": 6200,
+        "Name": "200",
+        "Transportation": 2,
+        "LineColour": "424A52"
+      }
+    ],
+    "X": 591636,
+    "Y": 6642832,
+    "Zone": "1",
+    "ShortName": "LYSS",
+    "IsHub": false,
+    "ID": 3012552,
+    "Name": "Lysaker stasjon (sydside Dr.vn)",
+    "District": "Oslo",
+    "PlaceType": "Stop"
+  },
+  {
+    "Stops": [
+      {
+        "Lines": [],
+        "X": 591394,
+        "Y": 6642852,
+        "Zone": "1",
+        "ShortName": "LYSL",
+        "IsHub": false,
+        "ID": 3012549,
+        "Name": "Lysaker (Lysakerlokket)",
+        "District": "Oslo",
+        "PlaceType": "Stop"
+      },
+      {
+        "Lines": [],
+        "X": 591555,
+        "Y": 6642905,
+        "Zone": "1",
+        "ShortName": "LY",
+        "IsHub": false,
+        "ID": 3012550,
+        "Name": "Lysaker [tog]",
+        "District": "Oslo",
+        "PlaceType": "Stop"
+      },
+      {
+        "Lines": [],
+        "X": 591538,
+        "Y": 6642857,
+        "Zone": "1",
+        "ShortName": "LYST",
+        "IsHub": false,
+        "ID": 3012551,
+        "Name": "Lysaker stasjon (nordside Dr.vn)",
+        "District": "Oslo",
+        "PlaceType": "Stop"
+      },
+      {
+        "Lines": [],
+        "X": 591636,
+        "Y": 6642832,
+        "Zone": "1",
+        "ShortName": "LYSS",
+        "IsHub": false,
+        "ID": 3012552,
+        "Name": "Lysaker stasjon (sydside Dr.vn)",
+        "District": "Oslo",
+        "PlaceType": "Stop"
+      },
+      {
+        "Lines": [],
+        "X": 591717,
+        "Y": 6642986,
+        "Zone": "1",
+        "ShortName": "LYB",
+        "IsHub": false,
+        "ID": 3012553,
+        "Name": "Lysaker bru",
+        "District": "Oslo",
+        "PlaceType": "Stop"
+      }
+    ],
+    "Center": {
+      "X": 591568,
+      "Y": 6642886
+    },
+    "ID": 1000022126,
+    "Name": "Lysaker (område)",
+    "District": "Oslo",
+    "PlaceType": "Area"
+  },
+  {
+    "Lines": [
+      {
+        "ID": 1485,
+        "Name": "485",
+        "Transportation": 2,
+        "LineColour": "bb1e10"
+      },
+      {
+        "ID": 1486,
+        "Name": "486",
+        "Transportation": 2,
+        "LineColour": "bb1e10"
+      },
+      {
+        "ID": 1489,
+        "Name": "489",
+        "Transportation": 2,
+        "LineColour": "bb1e10"
+      },
+      {
+        "ID": 1493,
+        "Name": "493",
+        "Transportation": 2,
+        "LineColour": "bb1e10"
+      }
+    ],
+    "X": 627718,
+    "Y": 6598326,
+    "Zone": "Eidsbe",
+    "ShortName": "",
+    "IsHub": false,
+    "ID": 1258045,
+    "Name": "Lysaker",
+    "District": "Eidsberg",
+    "PlaceType": "Stop"
+  },
+  {
+    "Lines": [
+      {
+        "ID": 5531,
+        "Name": "531",
+        "Transportation": 2,
+        "LineColour": "487BA4"
+      },
+      {
+        "ID": 51531,
+        "Name": "531",
+        "Transportation": 2,
+        "LineColour": "487BA4"
+      }
+    ],
+    "X": 518030,
+    "Y": 6844918,
+    "Zone": "336",
+    "ShortName": "",
+    "IsHub": false,
+    "ID": 5170367,
+    "Name": "Lysaker",
+    "District": "Sel",
+    "PlaceType": "Stop"
+  },
+  {
+    "Houses": [],
+    "ID": 21902530,
+    "Name": "Lysaker Brygge",
+    "District": "Bærum",
+    "PlaceType": "Street"
+  },
+  {
+    "X": 590438,
+    "Y": 6642452,
+    "Stops": [
+      {
+        "Lines": [],
+        "X": 591304,
+        "Y": 6642930,
+        "Zone": "1",
+        "ShortName": "SOLIB",
+        "IsHub": false,
+        "ID": 2190004,
+        "Name": "Solliveien",
+        "District": "Bærum",
+        "PlaceType": "Stop"
+      },
+      {
+        "Lines": [],
+        "X": 591188,
+        "Y": 6643155,
+        "Zone": "1",
+        "ShortName": "MARVN",
+        "IsHub": false,
+        "ID": 2190005,
+        "Name": "Marstranderveien",
+        "District": "Bærum",
+        "PlaceType": "Stop"
+      },
+      {
+        "Lines": [],
+        "X": 591118,
+        "Y": 6642133,
+        "Zone": "1",
+        "ShortName": "LILVN",
+        "IsHub": false,
+        "ID": 2190020,
+        "Name": "Lilløyveien",
+        "District": "Bærum",
+        "PlaceType": "Stop"
+      },
+      {
+        "Lines": [],
+        "X": 590549,
+        "Y": 6642231,
+        "Zone": "1",
+        "ShortName": "OKSØV",
+        "IsHub": false,
+        "ID": 2190040,
+        "Name": "Oksenøyveien",
+        "District": "Bærum",
+        "PlaceType": "Stop"
+      },
+      {
+        "Lines": [],
+        "X": 590220,
+        "Y": 6641897,
+        "Zone": "1",
+        "ShortName": "EKERN",
+        "IsHub": false,
+        "ID": 2190041,
+        "Name": "Ekern",
+        "District": "Bærum",
+        "PlaceType": "Stop"
+      },
+      {
+        "Lines": [],
+        "X": 589565,
+        "Y": 6642578,
+        "Zone": "1",
+        "ShortName": "STAEL",
+        "IsHub": false,
+        "ID": 2190047,
+        "Name": "Stabekk eldresenter",
+        "District": "Bærum",
+        "PlaceType": "Stop"
+      },
+      {
+        "Lines": [],
+        "X": 589910,
+        "Y": 6642320,
+        "Zone": "1",
+        "ShortName": "STA",
+        "IsHub": false,
+        "ID": 2190100,
+        "Name": "Stabekk [tog]",
+        "District": "Bærum",
+        "PlaceType": "Stop"
+      },
+      {
+        "Lines": [],
+        "X": 589811,
+        "Y": 6642347,
+        "Zone": "1",
+        "ShortName": "STAS",
+        "IsHub": false,
+        "ID": 2190101,
+        "Name": "Stabekk stasjon [buss]",
+        "District": "Bærum",
+        "PlaceType": "Stop"
+      },
+      {
+        "Lines": [],
+        "X": 590891,
+        "Y": 6642636,
+        "Zone": "1",
+        "ShortName": "TJEMY",
+        "IsHub": false,
+        "ID": 2190105,
+        "Name": "Tjernsmyr",
+        "District": "Bærum",
+        "PlaceType": "Stop"
+      },
+      {
+        "Lines": [],
+        "X": 590380,
+        "Y": 6642411,
+        "Zone": "1",
+        "ShortName": "NOLV",
+        "IsHub": false,
+        "ID": 2190107,
+        "Name": "Nordliveien",
+        "District": "Bærum",
+        "PlaceType": "Stop"
+      },
+      {
+        "Lines": [],
+        "X": 590217,
+        "Y": 6642217,
+        "Zone": "1",
+        "ShortName": "EKVN",
+        "IsHub": false,
+        "ID": 2190108,
+        "Name": "Ekeliveien (i Prof. Kothsv.)",
+        "District": "Bærum",
+        "PlaceType": "Stop"
+      },
+      {
+        "Lines": [],
+        "X": 589934,
+        "Y": 6642853,
+        "Zone": "1",
+        "ShortName": "CLB",
+        "IsHub": false,
+        "ID": 2190115,
+        "Name": "Clausenbakken",
+        "District": "Bærum",
+        "PlaceType": "Stop"
+      },
+      {
+        "Lines": [],
+        "X": 589741,
+        "Y": 6642523,
+        "Zone": "1",
+        "ShortName": "BAKVN",
+        "IsHub": false,
+        "ID": 2190116,
+        "Name": "Bakkeveien",
+        "District": "Bærum",
+        "PlaceType": "Stop"
+      },
+      {
+        "Lines": [],
+        "X": 589574,
+        "Y": 6642415,
+        "Zone": "1",
+        "ShortName": "STAKI",
+        "IsHub": false,
+        "ID": 2190119,
+        "Name": "Stabekk kino",
+        "District": "Bærum",
+        "PlaceType": "Stop"
+      },
+      {
+        "Lines": [],
+        "X": 589413,
+        "Y": 6642598,
+        "Zone": "1",
+        "ShortName": "SKGVS",
+        "IsHub": false,
+        "ID": 2190125,
+        "Name": "Skogveien (ved Stabekk)",
+        "District": "Bærum",
+        "PlaceType": "Stop"
+      },
+      {
+        "Lines": [],
+        "X": 589600,
+        "Y": 6641835,
+        "Zone": "1",
+        "ShortName": "KRV",
+        "IsHub": false,
+        "ID": 2190145,
+        "Name": "Kveldsroveien",
+        "District": "Bærum",
+        "PlaceType": "Stop"
+      },
+      {
+        "Lines": [],
+        "X": 589338,
+        "Y": 6642208,
+        "Zone": "1",
+        "ShortName": "TERVN",
+        "IsHub": false,
+        "ID": 2190232,
+        "Name": "Terrasseveien",
+        "District": "Bærum",
+        "PlaceType": "Stop"
+      },
+      {
+        "Lines": [],
+        "X": 591394,
+        "Y": 6642852,
+        "Zone": "1",
+        "ShortName": "LYSL",
+        "IsHub": false,
+        "ID": 3012549,
+        "Name": "Lysaker (Lysakerlokket)",
+        "District": "Oslo",
+        "PlaceType": "Stop"
+      },
+      {
+        "Lines": [],
+        "X": 591555,
+        "Y": 6642905,
+        "Zone": "1",
+        "ShortName": "LY",
+        "IsHub": false,
+        "ID": 3012550,
+        "Name": "Lysaker [tog]",
+        "District": "Oslo",
+        "PlaceType": "Stop"
+      },
+      {
+        "Lines": [],
+        "X": 591538,
+        "Y": 6642857,
+        "Zone": "1",
+        "ShortName": "LYST",
+        "IsHub": false,
+        "ID": 3012551,
+        "Name": "Lysaker stasjon (nordside Dr.vn)",
+        "District": "Oslo",
+        "PlaceType": "Stop"
+      }
+    ],
+    "ID": 1000018264,
+    "Name": "Lysaker skole",
+    "District": "Oslo",
+    "PlaceType": "POI"
+  },
+  {
+    "Houses": [],
+    "ID": 21902495,
+    "Name": "Lysaker torg",
+    "District": "Bærum",
+    "PlaceType": "Street"
+  },
+  {
+    "Houses": [],
+    "ID": 22101436,
+    "Name": "Lysakerveien",
+    "District": "Aurskog-Høland",
+    "PlaceType": "Street"
+  },
+  {
+    "Houses": [],
+    "ID": 23705400,
+    "Name": "Lysakervegen",
+    "District": "Eidsvoll",
+    "PlaceType": "Street"
+  },
+  {
+    "Houses": [],
+    "ID": 62501118,
+    "Name": "Lysakerveien",
+    "District": "Nedre Eiker",
+    "PlaceType": "Street"
+  },
+  {
+    "Houses": [],
+    "ID": 72201770,
+    "Name": "Lysakerveien",
+    "District": "Nøtterøy",
+    "PlaceType": "Street"
+  },
+  {
+    "Lines": [
+      {
+        "ID": 5720,
+        "Name": "720",
+        "Transportation": 2,
+        "LineColour": "487BA4"
+      },
+      {
+        "ID": 51720,
+        "Name": "720",
+        "Transportation": 2,
+        "LineColour": "487BA4"
+      }
+    ],
+    "X": 574970,
+    "Y": 6690000,
+    "Zone": "400",
+    "ShortName": "",
+    "IsHub": false,
+    "ID": 5320306,
+    "Name": "Onsaker",
+    "District": "Jevnaker",
+    "PlaceType": "Stop"
+  },
+  {
+    "Houses": [],
+    "ID": 62701310,
+    "Name": "Nedre Åsaker vei",
+    "District": "Røyken",
+    "PlaceType": "Street"
+  }
+]

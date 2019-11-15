@@ -1,0 +1,19 @@
+As a new developer of Ruter's advanced client technologies team, you have been given responsibility of their
+commandline bus trip client! It is used to query the first 10 upcoming transports from a searchable area in Oslo.
+The previous developer on this team has unfortunately resigned, and you are to take over.
+The last thing he did was to rewrite the code from a synchronous to a parallel architecture, as there was many
+complaints that the client was slow in getting all the bus trips.
+
+Your assignment for the first hour of the day is;
+
+1. Bugs have been filed on the client not supporting input of place names with characters other than letters
+   (examples are 'St. Hanshaugen' or 'Telenor Fornebu'). Can you fix this?
+
+2. The previous developer had intended that pressing both "q" and just <enter> at the query prompt should stop the
+   program. It turns out only one of them works. Can you fix the other?
+
+3. On some searches ('Fornebu' or 'Oslo'), more than 10 results are printed and the cursor is not positioned correctly
+   after search completion. Can you fix this (or if time runs short, describe how you would fix it)?
+
+4. Perform a code review of the current code. Make notes of What works, identify bugs and suggest improvements.
+   Prepare a discussion around your findings. There is no need to code corrections here.

@@ -1,0 +1,3961 @@
+[
+  {
+    "RecordedAtTime": "2016-11-22T16:31:21.696+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": "1",
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "24709"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": "1",
+      "OperatorRef": "Nobina",
+      "OriginName": "Snarøya",
+      "OriginRef": "2190030",
+      "DestinationRef": "3011941",
+      "DestinationName": "Grorud T",
+      "OriginAimedDepartureTime": "0001-01-01T00:00:00",
+      "DestinationAimedArrivalTime": "0001-01-01T00:00:00",
+      "Monitored": true,
+      "InCongestion": false,
+      "Delay": "PT0S",
+      "TrainBlockPart": null,
+      "BlockRef": "3103",
+      "VehicleRef": "741242",
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310247",
+      "MonitoredCall": {
+        "VisitNumber": 7,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Grorud T",
+        "AimedArrivalTime": "2016-11-22T17:11:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:11:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:11:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:11:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": {
+        "OccupancyAvailable": true,
+        "OccupancyPercentage": 20
+      },
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:21.696+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "28",
+      "DirectionRef": "1",
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "5710"
+      },
+      "PublishedLineName": "28",
+      "DirectionName": "1",
+      "OperatorRef": "Unibuss",
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3011441",
+      "DestinationName": "Helsfyr T",
+      "OriginAimedDepartureTime": "0001-01-01T00:00:00",
+      "DestinationAimedArrivalTime": "0001-01-01T00:00:00",
+      "Monitored": true,
+      "InCongestion": false,
+      "Delay": "PT0S",
+      "TrainBlockPart": null,
+      "BlockRef": "2801",
+      "VehicleRef": "410535",
+      "VehicleMode": 0,
+      "VehicleJourneyName": "280057",
+      "MonitoredCall": {
+        "VisitNumber": 3,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Helsfyr T",
+        "AimedArrivalTime": "2016-11-22T17:11:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:11:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:11:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:11:00+01:00",
+        "DeparturePlatformName": "1"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": {
+        "OccupancyAvailable": true,
+        "OccupancyPercentage": 20
+      },
+      "Deviations": [],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:21.696+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "2031",
+      "DirectionRef": "1",
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "3009"
+      },
+      "PublishedLineName": "31E",
+      "DirectionName": "1",
+      "OperatorRef": "Nobina",
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3012044",
+      "DestinationName": "Tonsenhagen ekspress",
+      "OriginAimedDepartureTime": "0001-01-01T00:00:00",
+      "DestinationAimedArrivalTime": "0001-01-01T00:00:00",
+      "Monitored": true,
+      "InCongestion": false,
+      "Delay": "PT0S",
+      "TrainBlockPart": null,
+      "BlockRef": "3173",
+      "VehicleRef": "741282",
+      "VehicleMode": 0,
+      "VehicleJourneyName": "420310030",
+      "MonitoredCall": {
+        "VisitNumber": 3,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Tonsenhagen ekspress",
+        "AimedArrivalTime": "2016-11-22T17:14:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:14:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:14:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:14:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": {
+        "OccupancyAvailable": true,
+        "OccupancyPercentage": 40
+      },
+      "Deviations": [
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:21.696+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": "2",
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "23509"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": "2",
+      "OperatorRef": "Nobina",
+      "OriginName": "Tonsenhagen",
+      "OriginRef": "3012070",
+      "DestinationRef": "2190017",
+      "DestinationName": "Fornebu",
+      "OriginAimedDepartureTime": "0001-01-01T00:00:00",
+      "DestinationAimedArrivalTime": "0001-01-01T00:00:00",
+      "Monitored": true,
+      "InCongestion": false,
+      "Delay": "PT0S",
+      "TrainBlockPart": null,
+      "BlockRef": "3114",
+      "VehicleRef": "741238",
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310235",
+      "MonitoredCall": {
+        "VisitNumber": 29,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Fornebu",
+        "AimedArrivalTime": "2016-11-22T17:15:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:15:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:15:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:15:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": {
+        "OccupancyAvailable": false,
+        "OccupancyPercentage": 0
+      },
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:21.696+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "28",
+      "DirectionRef": "2",
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "5310"
+      },
+      "PublishedLineName": "28",
+      "DirectionName": "2",
+      "OperatorRef": "Unibuss",
+      "OriginName": "Helsfyr T [bussterminal]",
+      "OriginRef": "3011441",
+      "DestinationRef": "2190017",
+      "DestinationName": "Fornebu",
+      "OriginAimedDepartureTime": "0001-01-01T00:00:00",
+      "DestinationAimedArrivalTime": "0001-01-01T00:00:00",
+      "Monitored": true,
+      "InCongestion": false,
+      "Delay": "PT0S",
+      "TrainBlockPart": null,
+      "BlockRef": "2803",
+      "VehicleRef": "100556",
+      "VehicleMode": 0,
+      "VehicleJourneyName": "280053",
+      "MonitoredCall": {
+        "VisitNumber": 27,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Fornebu",
+        "AimedArrivalTime": "2016-11-22T17:15:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:15:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:15:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:15:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": {
+        "OccupancyAvailable": true,
+        "OccupancyPercentage": 0
+      },
+      "Deviations": [],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:21.696+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "24",
+      "DirectionRef": "1",
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "5610"
+      },
+      "PublishedLineName": "24",
+      "DirectionName": "1",
+      "OperatorRef": "Unibuss",
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3011451",
+      "DestinationName": "Brynseng T",
+      "OriginAimedDepartureTime": "0001-01-01T00:00:00",
+      "DestinationAimedArrivalTime": "0001-01-01T00:00:00",
+      "Monitored": true,
+      "InCongestion": false,
+      "Delay": "PT0S",
+      "TrainBlockPart": null,
+      "BlockRef": "2411",
+      "VehicleRef": "101067",
+      "VehicleMode": 0,
+      "VehicleJourneyName": "240056",
+      "MonitoredCall": {
+        "VisitNumber": 3,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Brynseng T",
+        "AimedArrivalTime": "2016-11-22T17:16:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:16:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:16:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:16:00+01:00",
+        "DeparturePlatformName": "1"
+      },
+      "VehicleFeatureRef": ""
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": {
+        "OccupancyAvailable": true,
+        "OccupancyPercentage": 20
+      },
+      "Deviations": [],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:21.696+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": "1",
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "24909"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": "1",
+      "OperatorRef": "Nobina",
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3012070",
+      "DestinationName": "Tonsenhagen",
+      "OriginAimedDepartureTime": "0001-01-01T00:00:00",
+      "DestinationAimedArrivalTime": "0001-01-01T00:00:00",
+      "Monitored": true,
+      "InCongestion": false,
+      "Delay": "PT0S",
+      "TrainBlockPart": null,
+      "BlockRef": "3123",
+      "VehicleRef": "741254",
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310249",
+      "MonitoredCall": {
+        "VisitNumber": 3,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Tonsenhagen",
+        "AimedArrivalTime": "2016-11-22T17:17:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:17:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:17:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:17:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": {
+        "OccupancyAvailable": false,
+        "OccupancyPercentage": 0
+      },
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:21.696+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "36",
+      "DirectionRef": "1",
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "5709"
+      },
+      "PublishedLineName": "36E",
+      "DirectionName": "1",
+      "OperatorRef": "Nobina",
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3010618",
+      "DestinationName": "Oslo bussterminal ekspress",
+      "OriginAimedDepartureTime": "0001-01-01T00:00:00",
+      "DestinationAimedArrivalTime": "0001-01-01T00:00:00",
+      "Monitored": true,
+      "InCongestion": false,
+      "Delay": "PT0S",
+      "TrainBlockPart": null,
+      "BlockRef": "3607",
+      "VehicleRef": "741299",
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400360057",
+      "MonitoredCall": {
+        "VisitNumber": 3,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Oslo bussterminal ekspress",
+        "AimedArrivalTime": "2016-11-22T17:17:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:17:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:17:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:17:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": {
+        "OccupancyAvailable": true,
+        "OccupancyPercentage": 40
+      },
+      "Deviations": [],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "36",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400360057"
+      },
+      "PublishedLineName": "36E",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3010618",
+      "DestinationName": "Oslo Bussterminal ekspress",
+      "OriginAimedDepartureTime": "2016-11-22T17:15:00",
+      "DestinationAimedArrivalTime": "2016-11-22T17:42:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400360057",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Oslo Bussterminal ekspress",
+        "AimedArrivalTime": "2016-11-22T17:17:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:17:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:17:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:17:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:21.696+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "707",
+      "DirectionRef": "2",
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "18602"
+      },
+      "PublishedLineName": "707",
+      "DirectionName": "2",
+      "OperatorRef": "Norgesbuss",
+      "OriginName": "Rolfstangen",
+      "OriginRef": "2190025",
+      "DestinationRef": "2200501",
+      "DestinationName": "Asker",
+      "OriginAimedDepartureTime": "0001-01-01T00:00:00",
+      "DestinationAimedArrivalTime": "0001-01-01T00:00:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": "PT0S",
+      "TrainBlockPart": null,
+      "BlockRef": "70120",
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "807070158",
+      "MonitoredCall": {
+        "VisitNumber": 3,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Asker",
+        "AimedArrivalTime": "2016-11-22T17:18:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:18:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:18:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:18:00+01:00",
+        "DeparturePlatformName": "1"
+      },
+      "VehicleFeatureRef": ""
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [],
+      "LineColour": "87B914"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:21.696+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "707",
+      "DirectionRef": "1",
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "13302"
+      },
+      "PublishedLineName": "707",
+      "DirectionName": "1",
+      "OperatorRef": "Norgesbuss",
+      "OriginName": "Asker stasjon [buss]",
+      "OriginRef": "2200501",
+      "DestinationRef": "2190025",
+      "DestinationName": "Fornebu",
+      "OriginAimedDepartureTime": "0001-01-01T00:00:00",
+      "DestinationAimedArrivalTime": "0001-01-01T00:00:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": "PT0S",
+      "TrainBlockPart": null,
+      "BlockRef": "70122",
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "807070060",
+      "MonitoredCall": {
+        "VisitNumber": 28,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Fornebu",
+        "AimedArrivalTime": "2016-11-22T17:20:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:20:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:20:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:20:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": ""
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [],
+      "LineColour": "87B914"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:21.696+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": "2",
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "23209"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": "2",
+      "OperatorRef": "Nobina",
+      "OriginName": "Grorud T [buss]",
+      "OriginRef": "3011941",
+      "DestinationRef": "2190030",
+      "DestinationName": "Snarøya",
+      "OriginAimedDepartureTime": "0001-01-01T00:00:00",
+      "DestinationAimedArrivalTime": "0001-01-01T00:00:00",
+      "Monitored": true,
+      "InCongestion": false,
+      "Delay": "PT0S",
+      "TrainBlockPart": null,
+      "BlockRef": "3106",
+      "VehicleRef": "741250",
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310232",
+      "MonitoredCall": {
+        "VisitNumber": 37,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Snarøya",
+        "AimedArrivalTime": "2016-11-22T17:21:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:21:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:21:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:21:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": ""
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": {
+        "OccupancyAvailable": true,
+        "OccupancyPercentage": 0
+      },
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:21.696+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "28",
+      "DirectionRef": "1",
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "5810"
+      },
+      "PublishedLineName": "28",
+      "DirectionName": "1",
+      "OperatorRef": "Unibuss",
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3011441",
+      "DestinationName": "Helsfyr T",
+      "OriginAimedDepartureTime": "0001-01-01T00:00:00",
+      "DestinationAimedArrivalTime": "0001-01-01T00:00:00",
+      "Monitored": true,
+      "InCongestion": false,
+      "Delay": "PT0S",
+      "TrainBlockPart": null,
+      "BlockRef": "2802",
+      "VehicleRef": "410529",
+      "VehicleMode": 0,
+      "VehicleJourneyName": "280058",
+      "MonitoredCall": {
+        "VisitNumber": 3,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Helsfyr T",
+        "AimedArrivalTime": "2016-11-22T17:21:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:21:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:21:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:21:00+01:00",
+        "DeparturePlatformName": "1"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": {
+        "OccupancyAvailable": true,
+        "OccupancyPercentage": 40
+      },
+      "Deviations": [],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:21.696+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": "1",
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "25109"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": "1",
+      "OperatorRef": "Nobina",
+      "OriginName": "Snarøya",
+      "OriginRef": "2190030",
+      "DestinationRef": "3011941",
+      "DestinationName": "Grorud T",
+      "OriginAimedDepartureTime": "0001-01-01T00:00:00",
+      "DestinationAimedArrivalTime": "0001-01-01T00:00:00",
+      "Monitored": true,
+      "InCongestion": false,
+      "Delay": "PT0S",
+      "TrainBlockPart": null,
+      "BlockRef": "3104",
+      "VehicleRef": "741278",
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310251",
+      "MonitoredCall": {
+        "VisitNumber": 7,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Grorud T",
+        "AimedArrivalTime": "2016-11-22T17:23:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:23:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:23:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:23:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": {
+        "OccupancyAvailable": true,
+        "OccupancyPercentage": 40
+      },
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:21.696+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "2031",
+      "DirectionRef": "1",
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "3109"
+      },
+      "PublishedLineName": "31E",
+      "DirectionName": "1",
+      "OperatorRef": "Nobina",
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3012044",
+      "DestinationName": "Tonsenhagen ekspress",
+      "OriginAimedDepartureTime": "0001-01-01T00:00:00",
+      "DestinationAimedArrivalTime": "0001-01-01T00:00:00",
+      "Monitored": true,
+      "InCongestion": false,
+      "Delay": "PT0S",
+      "TrainBlockPart": null,
+      "BlockRef": "3174",
+      "VehicleRef": "741298",
+      "VehicleMode": 0,
+      "VehicleJourneyName": "420310031",
+      "MonitoredCall": {
+        "VisitNumber": 3,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Tonsenhagen ekspress",
+        "AimedArrivalTime": "2016-11-22T17:24:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:24:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:24:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:24:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": ""
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": {
+        "OccupancyAvailable": true,
+        "OccupancyPercentage": 40
+      },
+      "Deviations": [
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:21.696+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "733",
+      "DirectionRef": "1",
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "11802"
+      },
+      "PublishedLineName": "733",
+      "DirectionName": "1",
+      "OperatorRef": "Norgesbuss",
+      "OriginName": "Bekkestua terminal [buss]",
+      "OriginRef": "2190149",
+      "DestinationRef": "2190030",
+      "DestinationName": "Snarøya",
+      "OriginAimedDepartureTime": "0001-01-01T00:00:00",
+      "DestinationAimedArrivalTime": "0001-01-01T00:00:00",
+      "Monitored": true,
+      "InCongestion": false,
+      "Delay": "PT0S",
+      "TrainBlockPart": null,
+      "BlockRef": "12117",
+      "VehicleRef": "338234",
+      "VehicleMode": 0,
+      "VehicleJourneyName": "807330036",
+      "MonitoredCall": {
+        "VisitNumber": 12,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Snarøya",
+        "AimedArrivalTime": "2016-11-22T17:26:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:26:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:26:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:26:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": {
+        "OccupancyAvailable": true,
+        "OccupancyPercentage": 0
+      },
+      "Deviations": [
+        {
+          "ID": 39951,
+          "Header": "Forsinkelser"
+        }
+      ],
+      "LineColour": "87B914"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:21.696+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "24",
+      "DirectionRef": "1",
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "5710"
+      },
+      "PublishedLineName": "24",
+      "DirectionName": "1",
+      "OperatorRef": "Unibuss",
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3011451",
+      "DestinationName": "Brynseng T",
+      "OriginAimedDepartureTime": "0001-01-01T00:00:00",
+      "DestinationAimedArrivalTime": "0001-01-01T00:00:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": "PT0S",
+      "TrainBlockPart": null,
+      "BlockRef": "2412",
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "240057",
+      "MonitoredCall": {
+        "VisitNumber": 3,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Brynseng T",
+        "AimedArrivalTime": "2016-11-22T17:26:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:26:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:26:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:26:00+01:00",
+        "DeparturePlatformName": "1"
+      },
+      "VehicleFeatureRef": ""
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:21.697+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "36",
+      "DirectionRef": "1",
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "5809"
+      },
+      "PublishedLineName": "36E",
+      "DirectionName": "1",
+      "OperatorRef": "Nobina",
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3010618",
+      "DestinationName": "Oslo bussterminal ekspress",
+      "OriginAimedDepartureTime": "0001-01-01T00:00:00",
+      "DestinationAimedArrivalTime": "0001-01-01T00:00:00",
+      "Monitored": true,
+      "InCongestion": false,
+      "Delay": "PT0S",
+      "TrainBlockPart": null,
+      "BlockRef": "3613",
+      "VehicleRef": "741308",
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400360058",
+      "MonitoredCall": {
+        "VisitNumber": 3,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Oslo bussterminal ekspress",
+        "AimedArrivalTime": "2016-11-22T17:27:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:27:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:27:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:27:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": {
+        "OccupancyAvailable": true,
+        "OccupancyPercentage": 40
+      },
+      "Deviations": [],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310239"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Tonsenhagen",
+      "OriginRef": "3012070",
+      "DestinationRef": "2190017",
+      "DestinationName": "Fornebu",
+      "OriginAimedDepartureTime": "2016-11-22T16:40:00",
+      "DestinationAimedArrivalTime": "2016-11-22T17:31:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310239",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Fornebu",
+        "AimedArrivalTime": "2016-11-22T17:27:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:27:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:27:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:27:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "36",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400360058"
+      },
+      "PublishedLineName": "36E",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3010618",
+      "DestinationName": "Oslo Bussterminal ekspress",
+      "OriginAimedDepartureTime": "2016-11-22T17:25:00",
+      "DestinationAimedArrivalTime": "2016-11-22T17:52:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400360058",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Oslo Bussterminal ekspress",
+        "AimedArrivalTime": "2016-11-22T17:27:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:27:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:27:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:27:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:21.697+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "733",
+      "DirectionRef": "2",
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "13402"
+      },
+      "PublishedLineName": "733",
+      "DirectionName": "2",
+      "OperatorRef": "Norgesbuss",
+      "OriginName": "Snarøya",
+      "OriginRef": "2190030",
+      "DestinationRef": "2190795",
+      "DestinationName": "Rykkinn",
+      "OriginAimedDepartureTime": "0001-01-01T00:00:00",
+      "DestinationAimedArrivalTime": "0001-01-01T00:00:00",
+      "Monitored": true,
+      "InCongestion": false,
+      "Delay": "PT0S",
+      "TrainBlockPart": null,
+      "BlockRef": "12125",
+      "VehicleRef": "338231",
+      "VehicleMode": 0,
+      "VehicleJourneyName": "807330068",
+      "MonitoredCall": {
+        "VisitNumber": 7,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Rykkinn",
+        "AimedArrivalTime": "2016-11-22T17:29:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:29:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:29:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:29:00+01:00",
+        "DeparturePlatformName": "1"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": {
+        "OccupancyAvailable": true,
+        "OccupancyPercentage": 0
+      },
+      "Deviations": [
+        {
+          "ID": 39951,
+          "Header": "Forsinkelser"
+        }
+      ],
+      "LineColour": "87B914"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:21.697+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": "1",
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "25309"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": "1",
+      "OperatorRef": "Nobina",
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3012070",
+      "DestinationName": "Tonsenhagen",
+      "OriginAimedDepartureTime": "0001-01-01T00:00:00",
+      "DestinationAimedArrivalTime": "0001-01-01T00:00:00",
+      "Monitored": true,
+      "InCongestion": false,
+      "Delay": "PT0S",
+      "TrainBlockPart": null,
+      "BlockRef": "3114",
+      "VehicleRef": "741238",
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310253",
+      "MonitoredCall": {
+        "VisitNumber": 3,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Tonsenhagen",
+        "AimedArrivalTime": "2016-11-22T17:29:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:29:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:29:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:29:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": {
+        "OccupancyAvailable": false,
+        "OccupancyPercentage": 0
+      },
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "28",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "280059"
+      },
+      "PublishedLineName": "28",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3011441",
+      "DestinationName": "Helsfyr T",
+      "OriginAimedDepartureTime": "2016-11-22T17:29:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:14:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "280059",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Helsfyr T",
+        "AimedArrivalTime": "2016-11-22T17:31:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:31:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:31:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:31:00+01:00",
+        "DeparturePlatformName": "1"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "707",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "807070160"
+      },
+      "PublishedLineName": "707",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Rolfstangen",
+      "OriginRef": "2190025",
+      "DestinationRef": "2200501",
+      "DestinationName": "Asker",
+      "OriginAimedDepartureTime": "2016-11-22T17:31:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:14:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "807070160",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Asker",
+        "AimedArrivalTime": "2016-11-22T17:33:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:33:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:33:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:33:00+01:00",
+        "DeparturePlatformName": "1"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [],
+      "LineColour": "87B914"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310236"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Grorud T [buss]",
+      "OriginRef": "3011941",
+      "DestinationRef": "2190030",
+      "DestinationName": "Snarøya",
+      "OriginAimedDepartureTime": "2016-11-22T16:36:00",
+      "DestinationAimedArrivalTime": "2016-11-22T17:39:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310236",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Snarøya",
+        "AimedArrivalTime": "2016-11-22T17:33:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:33:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:33:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:33:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "2031",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "420310032"
+      },
+      "PublishedLineName": "31E",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3012044",
+      "DestinationName": "Tonsenhagen ekspress",
+      "OriginAimedDepartureTime": "2016-11-22T17:32:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:18:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "420310032",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Tonsenhagen ekspress",
+        "AimedArrivalTime": "2016-11-22T17:34:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:34:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:34:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:34:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310255"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Snarøya",
+      "OriginRef": "2190030",
+      "DestinationRef": "3011941",
+      "DestinationName": "Grorud T",
+      "OriginAimedDepartureTime": "2016-11-22T17:28:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:33:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310255",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Grorud T",
+        "AimedArrivalTime": "2016-11-22T17:35:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:35:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:35:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:35:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "36",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400360059"
+      },
+      "PublishedLineName": "36E",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3010618",
+      "DestinationName": "Oslo Bussterminal ekspress",
+      "OriginAimedDepartureTime": "2016-11-22T17:35:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:02:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400360059",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Oslo Bussterminal ekspress",
+        "AimedArrivalTime": "2016-11-22T17:37:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:37:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:37:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:37:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310242"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Tonsenhagen",
+      "OriginRef": "3012070",
+      "DestinationRef": "2190017",
+      "DestinationName": "Fornebu",
+      "OriginAimedDepartureTime": "2016-11-22T16:52:00",
+      "DestinationAimedArrivalTime": "2016-11-22T17:43:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310242",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Fornebu",
+        "AimedArrivalTime": "2016-11-22T17:39:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:39:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:39:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:39:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310257"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3012070",
+      "DestinationName": "Tonsenhagen",
+      "OriginAimedDepartureTime": "2016-11-22T17:39:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:29:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310257",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Tonsenhagen",
+        "AimedArrivalTime": "2016-11-22T17:41:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:41:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:41:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:41:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "2031",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "420310033"
+      },
+      "PublishedLineName": "31E",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3012044",
+      "DestinationName": "Tonsenhagen ekspress",
+      "OriginAimedDepartureTime": "2016-11-22T17:42:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:28:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "420310033",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Tonsenhagen ekspress",
+        "AimedArrivalTime": "2016-11-22T17:44:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:44:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:44:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:44:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310240"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Grorud T [buss]",
+      "OriginRef": "3011941",
+      "DestinationRef": "2190030",
+      "DestinationName": "Snarøya",
+      "OriginAimedDepartureTime": "2016-11-22T16:48:00",
+      "DestinationAimedArrivalTime": "2016-11-22T17:51:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310240",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Snarøya",
+        "AimedArrivalTime": "2016-11-22T17:45:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:45:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:45:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:45:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "36",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400360060"
+      },
+      "PublishedLineName": "36E",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3010618",
+      "DestinationName": "Oslo Bussterminal ekspress",
+      "OriginAimedDepartureTime": "2016-11-22T17:45:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:12:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400360060",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Oslo Bussterminal ekspress",
+        "AimedArrivalTime": "2016-11-22T17:47:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:47:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:47:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:47:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310259"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Snarøya",
+      "OriginRef": "2190030",
+      "DestinationRef": "3011941",
+      "DestinationName": "Grorud T",
+      "OriginAimedDepartureTime": "2016-11-22T17:40:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:45:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310259",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Grorud T",
+        "AimedArrivalTime": "2016-11-22T17:47:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:47:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:47:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:47:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310246"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Tonsenhagen",
+      "OriginRef": "3012070",
+      "DestinationRef": "2190017",
+      "DestinationName": "Fornebu",
+      "OriginAimedDepartureTime": "2016-11-22T17:04:00",
+      "DestinationAimedArrivalTime": "2016-11-22T17:55:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310246",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Fornebu",
+        "AimedArrivalTime": "2016-11-22T17:51:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:51:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:51:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:51:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310261"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3012070",
+      "DestinationName": "Tonsenhagen",
+      "OriginAimedDepartureTime": "2016-11-22T17:51:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:41:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310261",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Tonsenhagen",
+        "AimedArrivalTime": "2016-11-22T17:53:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:53:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:53:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:53:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "2031",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "420310034"
+      },
+      "PublishedLineName": "31E",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3012044",
+      "DestinationName": "Tonsenhagen ekspress",
+      "OriginAimedDepartureTime": "2016-11-22T17:52:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:38:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "420310034",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Tonsenhagen ekspress",
+        "AimedArrivalTime": "2016-11-22T17:54:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:54:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:54:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:54:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "733",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "807330034"
+      },
+      "PublishedLineName": "733",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Økri (i Rykkinveien)",
+      "OriginRef": "2190793",
+      "DestinationRef": "2190030",
+      "DestinationName": "Snarøya",
+      "OriginAimedDepartureTime": "2016-11-22T17:12:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:02:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "807330034",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Snarøya",
+        "AimedArrivalTime": "2016-11-22T17:56:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:56:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:56:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:56:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39951,
+          "Header": "Forsinkelser"
+        }
+      ],
+      "LineColour": "87B914"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310244"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Grorud T [buss]",
+      "OriginRef": "3011941",
+      "DestinationRef": "2190030",
+      "DestinationName": "Snarøya",
+      "OriginAimedDepartureTime": "2016-11-22T17:00:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:03:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310244",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Snarøya",
+        "AimedArrivalTime": "2016-11-22T17:57:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:57:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:57:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:57:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "36",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400360061"
+      },
+      "PublishedLineName": "36E",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3010618",
+      "DestinationName": "Oslo Bussterminal ekspress",
+      "OriginAimedDepartureTime": "2016-11-22T17:55:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:22:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400360061",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Oslo Bussterminal ekspress",
+        "AimedArrivalTime": "2016-11-22T17:57:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:57:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:57:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:57:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "733",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "807330070"
+      },
+      "PublishedLineName": "733",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Snarøya",
+      "OriginRef": "2190030",
+      "DestinationRef": "2190149",
+      "DestinationName": "Bekkestua",
+      "OriginAimedDepartureTime": "2016-11-22T17:53:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:14:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "807330070",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Bekkestua",
+        "AimedArrivalTime": "2016-11-22T17:59:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:59:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:59:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:59:00+01:00",
+        "DeparturePlatformName": "1"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39951,
+          "Header": "Forsinkelser"
+        }
+      ],
+      "LineColour": "87B914"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310263"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Snarøya",
+      "OriginRef": "2190030",
+      "DestinationRef": "3011941",
+      "DestinationName": "Grorud T",
+      "OriginAimedDepartureTime": "2016-11-22T17:52:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:57:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310263",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Grorud T",
+        "AimedArrivalTime": "2016-11-22T17:59:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T17:59:00+01:00",
+        "AimedDepartureTime": "2016-11-22T17:59:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T17:59:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310250"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Tonsenhagen",
+      "OriginRef": "3012070",
+      "DestinationRef": "2190017",
+      "DestinationName": "Fornebu",
+      "OriginAimedDepartureTime": "2016-11-22T17:16:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:07:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310250",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Fornebu",
+        "AimedArrivalTime": "2016-11-22T18:03:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T18:03:00+01:00",
+        "AimedDepartureTime": "2016-11-22T18:03:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T18:03:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "2031",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "420310035"
+      },
+      "PublishedLineName": "31E",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3012044",
+      "DestinationName": "Tonsenhagen ekspress",
+      "OriginAimedDepartureTime": "2016-11-22T18:02:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:48:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "420310035",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Tonsenhagen ekspress",
+        "AimedArrivalTime": "2016-11-22T18:04:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T18:04:00+01:00",
+        "AimedDepartureTime": "2016-11-22T18:04:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T18:04:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310265"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3012070",
+      "DestinationName": "Tonsenhagen",
+      "OriginAimedDepartureTime": "2016-11-22T18:03:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:53:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310265",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Tonsenhagen",
+        "AimedArrivalTime": "2016-11-22T18:05:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T18:05:00+01:00",
+        "AimedDepartureTime": "2016-11-22T18:05:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T18:05:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "36",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400360062"
+      },
+      "PublishedLineName": "36E",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3010618",
+      "DestinationName": "Oslo Bussterminal ekspress",
+      "OriginAimedDepartureTime": "2016-11-22T18:05:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:32:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400360062",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Oslo Bussterminal ekspress",
+        "AimedArrivalTime": "2016-11-22T18:07:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T18:07:00+01:00",
+        "AimedDepartureTime": "2016-11-22T18:07:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T18:07:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310248"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Grorud T [buss]",
+      "OriginRef": "3011941",
+      "DestinationRef": "2190030",
+      "DestinationName": "Snarøya",
+      "OriginAimedDepartureTime": "2016-11-22T17:12:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:15:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310248",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Snarøya",
+        "AimedArrivalTime": "2016-11-22T18:09:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T18:09:00+01:00",
+        "AimedDepartureTime": "2016-11-22T18:09:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T18:09:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310267"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Snarøya",
+      "OriginRef": "2190030",
+      "DestinationRef": "3011941",
+      "DestinationName": "Grorud T",
+      "OriginAimedDepartureTime": "2016-11-22T18:04:00",
+      "DestinationAimedArrivalTime": "2016-11-22T19:09:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310267",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Grorud T",
+        "AimedArrivalTime": "2016-11-22T18:11:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T18:11:00+01:00",
+        "AimedDepartureTime": "2016-11-22T18:11:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T18:11:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310254"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Tonsenhagen",
+      "OriginRef": "3012070",
+      "DestinationRef": "2190017",
+      "DestinationName": "Fornebu",
+      "OriginAimedDepartureTime": "2016-11-22T17:28:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:19:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310254",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Fornebu",
+        "AimedArrivalTime": "2016-11-22T18:15:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T18:15:00+01:00",
+        "AimedDepartureTime": "2016-11-22T18:15:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T18:15:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310269"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3012070",
+      "DestinationName": "Tonsenhagen",
+      "OriginAimedDepartureTime": "2016-11-22T18:15:00",
+      "DestinationAimedArrivalTime": "2016-11-22T19:05:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310269",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Tonsenhagen",
+        "AimedArrivalTime": "2016-11-22T18:17:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T18:17:00+01:00",
+        "AimedDepartureTime": "2016-11-22T18:17:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T18:17:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310252"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Grorud T [buss]",
+      "OriginRef": "3011941",
+      "DestinationRef": "2190030",
+      "DestinationName": "Snarøya",
+      "OriginAimedDepartureTime": "2016-11-22T17:24:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:27:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310252",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Snarøya",
+        "AimedArrivalTime": "2016-11-22T18:21:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T18:21:00+01:00",
+        "AimedDepartureTime": "2016-11-22T18:21:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T18:21:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310271"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Snarøya",
+      "OriginRef": "2190030",
+      "DestinationRef": "3011941",
+      "DestinationName": "Grorud T",
+      "OriginAimedDepartureTime": "2016-11-22T18:16:00",
+      "DestinationAimedArrivalTime": "2016-11-22T19:21:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310271",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Grorud T",
+        "AimedArrivalTime": "2016-11-22T18:23:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T18:23:00+01:00",
+        "AimedDepartureTime": "2016-11-22T18:23:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T18:23:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310258"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Tonsenhagen",
+      "OriginRef": "3012070",
+      "DestinationRef": "2190017",
+      "DestinationName": "Fornebu",
+      "OriginAimedDepartureTime": "2016-11-22T17:40:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:31:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310258",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Fornebu",
+        "AimedArrivalTime": "2016-11-22T18:27:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T18:27:00+01:00",
+        "AimedDepartureTime": "2016-11-22T18:27:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T18:27:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "733",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "807330072"
+      },
+      "PublishedLineName": "733",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Snarøya",
+      "OriginRef": "2190030",
+      "DestinationRef": "2190149",
+      "DestinationName": "Bekkestua",
+      "OriginAimedDepartureTime": "2016-11-22T18:23:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:44:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "807330072",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Bekkestua",
+        "AimedArrivalTime": "2016-11-22T18:29:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T18:29:00+01:00",
+        "AimedDepartureTime": "2016-11-22T18:29:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T18:29:00+01:00",
+        "DeparturePlatformName": "1"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39951,
+          "Header": "Forsinkelser"
+        }
+      ],
+      "LineColour": "87B914"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310273"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3012070",
+      "DestinationName": "Tonsenhagen",
+      "OriginAimedDepartureTime": "2016-11-22T18:27:00",
+      "DestinationAimedArrivalTime": "2016-11-22T19:17:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310273",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Tonsenhagen",
+        "AimedArrivalTime": "2016-11-22T18:29:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T18:29:00+01:00",
+        "AimedDepartureTime": "2016-11-22T18:29:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T18:29:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310256"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Grorud T [buss]",
+      "OriginRef": "3011941",
+      "DestinationRef": "2190030",
+      "DestinationName": "Snarøya",
+      "OriginAimedDepartureTime": "2016-11-22T17:36:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:39:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310256",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Snarøya",
+        "AimedArrivalTime": "2016-11-22T18:33:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T18:33:00+01:00",
+        "AimedDepartureTime": "2016-11-22T18:33:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T18:33:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310275"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Snarøya",
+      "OriginRef": "2190030",
+      "DestinationRef": "3011941",
+      "DestinationName": "Grorud T",
+      "OriginAimedDepartureTime": "2016-11-22T18:28:00",
+      "DestinationAimedArrivalTime": "2016-11-22T19:33:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310275",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Grorud T",
+        "AimedArrivalTime": "2016-11-22T18:35:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T18:35:00+01:00",
+        "AimedDepartureTime": "2016-11-22T18:35:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T18:35:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310262"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Tonsenhagen",
+      "OriginRef": "3012070",
+      "DestinationRef": "2190017",
+      "DestinationName": "Fornebu",
+      "OriginAimedDepartureTime": "2016-11-22T17:52:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:43:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310262",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Fornebu",
+        "AimedArrivalTime": "2016-11-22T18:39:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T18:39:00+01:00",
+        "AimedDepartureTime": "2016-11-22T18:39:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T18:39:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310277"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3012070",
+      "DestinationName": "Tonsenhagen",
+      "OriginAimedDepartureTime": "2016-11-22T18:39:00",
+      "DestinationAimedArrivalTime": "2016-11-22T19:29:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310277",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Tonsenhagen",
+        "AimedArrivalTime": "2016-11-22T18:41:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T18:41:00+01:00",
+        "AimedDepartureTime": "2016-11-22T18:41:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T18:41:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310260"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Grorud T [buss]",
+      "OriginRef": "3011941",
+      "DestinationRef": "2190030",
+      "DestinationName": "Snarøya",
+      "OriginAimedDepartureTime": "2016-11-22T17:48:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:51:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310260",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Snarøya",
+        "AimedArrivalTime": "2016-11-22T18:45:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T18:45:00+01:00",
+        "AimedDepartureTime": "2016-11-22T18:45:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T18:45:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310279"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Snarøya",
+      "OriginRef": "2190030",
+      "DestinationRef": "3011941",
+      "DestinationName": "Grorud T",
+      "OriginAimedDepartureTime": "2016-11-22T18:40:00",
+      "DestinationAimedArrivalTime": "2016-11-22T19:45:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310279",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Grorud T",
+        "AimedArrivalTime": "2016-11-22T18:47:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T18:47:00+01:00",
+        "AimedDepartureTime": "2016-11-22T18:47:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T18:47:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310266"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Tonsenhagen",
+      "OriginRef": "3012070",
+      "DestinationRef": "2190017",
+      "DestinationName": "Fornebu",
+      "OriginAimedDepartureTime": "2016-11-22T18:04:00",
+      "DestinationAimedArrivalTime": "2016-11-22T18:55:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310266",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Fornebu",
+        "AimedArrivalTime": "2016-11-22T18:51:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T18:51:00+01:00",
+        "AimedDepartureTime": "2016-11-22T18:51:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T18:51:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310281"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3012070",
+      "DestinationName": "Tonsenhagen",
+      "OriginAimedDepartureTime": "2016-11-22T18:51:00",
+      "DestinationAimedArrivalTime": "2016-11-22T19:41:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310281",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Tonsenhagen",
+        "AimedArrivalTime": "2016-11-22T18:53:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T18:53:00+01:00",
+        "AimedDepartureTime": "2016-11-22T18:53:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T18:53:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310264"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Grorud T [buss]",
+      "OriginRef": "3011941",
+      "DestinationRef": "2190030",
+      "DestinationName": "Snarøya",
+      "OriginAimedDepartureTime": "2016-11-22T18:00:00",
+      "DestinationAimedArrivalTime": "2016-11-22T19:03:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310264",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Snarøya",
+        "AimedArrivalTime": "2016-11-22T18:57:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T18:57:00+01:00",
+        "AimedDepartureTime": "2016-11-22T18:57:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T18:57:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310283"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Snarøya",
+      "OriginRef": "2190030",
+      "DestinationRef": "3011941",
+      "DestinationName": "Grorud T",
+      "OriginAimedDepartureTime": "2016-11-22T18:52:00",
+      "DestinationAimedArrivalTime": "2016-11-22T19:57:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310283",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Grorud T",
+        "AimedArrivalTime": "2016-11-22T18:59:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T18:59:00+01:00",
+        "AimedDepartureTime": "2016-11-22T18:59:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T18:59:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310270"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Tonsenhagen",
+      "OriginRef": "3012070",
+      "DestinationRef": "2190017",
+      "DestinationName": "Fornebu",
+      "OriginAimedDepartureTime": "2016-11-22T18:16:00",
+      "DestinationAimedArrivalTime": "2016-11-22T19:07:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310270",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Fornebu",
+        "AimedArrivalTime": "2016-11-22T19:03:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T19:03:00+01:00",
+        "AimedDepartureTime": "2016-11-22T19:03:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T19:03:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310285"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Fornebu vest",
+      "OriginRef": "2190017",
+      "DestinationRef": "3012070",
+      "DestinationName": "Tonsenhagen",
+      "OriginAimedDepartureTime": "2016-11-22T19:03:00",
+      "DestinationAimedArrivalTime": "2016-11-22T19:53:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310285",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Tonsenhagen",
+        "AimedArrivalTime": "2016-11-22T19:05:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T19:05:00+01:00",
+        "AimedDepartureTime": "2016-11-22T19:05:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T19:05:00+01:00",
+        "DeparturePlatformName": "3"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  },
+  {
+    "RecordedAtTime": "2016-11-22T16:31:23.1909214+01:00",
+    "MonitoringRef": "2190021",
+    "MonitoredVehicleJourney": {
+      "LineRef": "31",
+      "DirectionRef": null,
+      "FramedVehicleJourneyRef": {
+        "DataFrameRef": "2016-11-22",
+        "DatedVehicleJourneyRef": "400310268"
+      },
+      "PublishedLineName": "31",
+      "DirectionName": null,
+      "OperatorRef": null,
+      "OriginName": "Grorud T [buss]",
+      "OriginRef": "3011941",
+      "DestinationRef": "2190030",
+      "DestinationName": "Snarøya",
+      "OriginAimedDepartureTime": "2016-11-22T18:12:00",
+      "DestinationAimedArrivalTime": "2016-11-22T19:15:00",
+      "Monitored": false,
+      "InCongestion": false,
+      "Delay": null,
+      "TrainBlockPart": null,
+      "BlockRef": null,
+      "VehicleRef": null,
+      "VehicleMode": 0,
+      "VehicleJourneyName": "400310268",
+      "MonitoredCall": {
+        "VisitNumber": 0,
+        "VehicleAtStop": false,
+        "DestinationDisplay": "Snarøya",
+        "AimedArrivalTime": "2016-11-22T19:09:00+01:00",
+        "ExpectedArrivalTime": "2016-11-22T19:09:00+01:00",
+        "AimedDepartureTime": "2016-11-22T19:09:00+01:00",
+        "ExpectedDepartureTime": "2016-11-22T19:09:00+01:00",
+        "DeparturePlatformName": "2"
+      },
+      "VehicleFeatureRef": null
+    },
+    "Extensions": {
+      "IsHub": false,
+      "OccupancyData": null,
+      "Deviations": [
+        {
+          "ID": 39949,
+          "Header": "Forsinkelser"
+        },
+        {
+          "ID": 38795,
+          "Header": "Stoppestedet Lakkegata skole benyttes ikke"
+        },
+        {
+          "ID": 38639,
+          "Header": "Stoppestedet Sofienberg (buss) er flyttet"
+        },
+        {
+          "ID": 38636,
+          "Header": "Buss 31 og 31E: Stoppestedet Heimdalsgata retning Grorud er flyttet"
+        }
+      ],
+      "LineColour": "E60000"
+    }
+  }
+]

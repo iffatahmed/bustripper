@@ -1,0 +1,33 @@
+[
+  {
+    "Lines": [
+      {
+        "ID": 60,
+        "Name": "60",
+        "Transportation": 2,
+        "LineColour": "E60000"
+      },
+      {
+        "ID": 105,
+        "Name": "105",
+        "Transportation": 2,
+        "LineColour": "E60000"
+      },
+      {
+        "ID": 3905,
+        "Name": "N5",
+        "Transportation": 2,
+        "LineColour": "E60000"
+      }
+    ],
+    "X": 598922,
+    "Y": 6643243,
+    "Zone": "1",
+    "ShortName": "TØYK",
+    "IsHub": false,
+    "ID": 3010615,
+    "Name": "Tøyenkirken",
+    "District": "Oslo",
+    "PlaceType": "Stop"
+  }
+]
